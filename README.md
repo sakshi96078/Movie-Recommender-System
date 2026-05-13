@@ -110,11 +110,8 @@ streamlit run app.py
 
 ## 🖼️ Application Preview
 
-Add your UI screenshot/poster here:
+<img width="1161" height="836" alt="398554136-99a37b30-d562-418e-9cbd-fd70361fc1ae" src="https://github.com/user-attachments/assets/b839ab7e-8560-44dc-b794-527a973e6ff1" />
 
-```markdown
-![Movie Recommender UI](poster.png)
-```
 
 ---
 
