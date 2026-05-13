@@ -37,13 +37,13 @@ Hybrid systems combine both content-based and collaborative filtering approaches
 ## ⚙️ Technologies Used
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Pickle-00599C?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="48"/>
 </p>
 
 ---
